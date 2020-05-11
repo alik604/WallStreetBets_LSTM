@@ -56,10 +56,6 @@ Averaging the constituent word vectors of a document to form a document vector i
 
 A future document model could be trained specifically on finance-related news and social media and could incorporate special handling of stock tickers such as “TSLA.” Such a finance-specialized model could provide better results.
 
-
-`alik604`, `repo`, `alik604`, `email`
-
-
 ### Built With
 
 * [GloVe](https://nlp.stanford.edu/projects/glove/)
