@@ -122,9 +122,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Khizr Ali Pardhan](https://github.com/alik604/Readme) - [Email](kpardhan@sfu.ca) - [@alik604](https://twitter.com/alik604)
 
-[David Pham]() - [Email](dpa35@sfu.ca) - [@null]()
+[David Pham]() - [Email](dpa35@sfu.ca) 
 
-[Winfield Chen]() - [Email]() - [@null]()
+[Winfield Chen]()
 
 
 
