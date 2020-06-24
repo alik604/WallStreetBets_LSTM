@@ -1,11 +1,3 @@
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url] -->
-
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alik604/)
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -120,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Khizr Ali Pardhan](https://github.com/alik604/Readme) - [Email](kpardhan@sfu.ca) - [@alik604](https://twitter.com/alik604)
+[Khizr Ali Pardhan](https://github.com/alik604/Readme) - [Email](kpardhan@sfu.ca) - [@alik604](https://twitter.com/alik604) [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alik604/)
 
 David Pham - [Email](dpa35@sfu.ca) 
 
@@ -145,3 +137,8 @@ Winfield Chen
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+
+<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url] -->
+
