@@ -1,3 +1,6 @@
+
+> Class projects for the undergraduate section of CMPT 419/726 Machine Learning: Theoretical justification for and practical application of, machine learning algorithms
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
